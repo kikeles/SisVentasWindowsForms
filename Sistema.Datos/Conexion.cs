@@ -22,7 +22,7 @@ namespace Sistema.Datos
         private Conexion()
         {
             this.Base = "dbsistemaprod";
-            this.Servidor = "";
+            this.Servidor = "LUIS-ENRIQUE";
             this.Usuaro = "";
             this.Clave = "";
             this.Seguridad = true;//indica con que tipo de seguridad se establece la conexión
