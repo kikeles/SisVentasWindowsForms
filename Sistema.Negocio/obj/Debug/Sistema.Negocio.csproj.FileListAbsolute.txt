@@ -1,0 +1,33 @@
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Negocio\bin\Debug\Sistema.Negocio.dll
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Negocio\bin\Debug\Sistema.Negocio.pdb
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Negocio\bin\Debug\Sistema.Datos.dll
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Negocio\bin\Debug\Sistema.Entidades.dll
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Negocio\bin\Debug\Sistema.Datos.pdb
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Negocio\bin\Debug\Sistema.Entidades.pdb
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Negocio\obj\Debug\Sistema.Negocio.csproj.AssemblyReference.cache
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Negocio\obj\Debug\Sistema.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Negocio\obj\Debug\Sistema.Negocio.csproj.CopyComplete
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Negocio\obj\Debug\Sistema.Negocio.dll
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Negocio\obj\Debug\Sistema.Negocio.pdb
+C:\Implementacion\Sistema\Sistema.Negocio\bin\Debug\Sistema.Negocio.dll
+C:\Implementacion\Sistema\Sistema.Negocio\bin\Debug\Sistema.Negocio.pdb
+C:\Implementacion\Sistema\Sistema.Negocio\bin\Debug\Sistema.Datos.dll
+C:\Implementacion\Sistema\Sistema.Negocio\bin\Debug\Sistema.Entidades.dll
+C:\Implementacion\Sistema\Sistema.Negocio\bin\Debug\Sistema.Datos.pdb
+C:\Implementacion\Sistema\Sistema.Negocio\bin\Debug\Sistema.Entidades.pdb
+C:\Implementacion\Sistema\Sistema.Negocio\obj\Debug\Sistema.Negocio.csproj.AssemblyReference.cache
+C:\Implementacion\Sistema\Sistema.Negocio\obj\Debug\Sistema.Negocio.csproj.CoreCompileInputs.cache
+C:\Implementacion\Sistema\Sistema.Negocio\obj\Debug\Sistema.Negocio.csproj.CopyComplete
+C:\Implementacion\Sistema\Sistema.Negocio\obj\Debug\Sistema.Negocio.dll
+C:\Implementacion\Sistema\Sistema.Negocio\obj\Debug\Sistema.Negocio.pdb
+C:\ProyectoWindowsForms\Sistema\Sistema.Negocio\bin\Debug\Sistema.Negocio.dll
+C:\ProyectoWindowsForms\Sistema\Sistema.Negocio\bin\Debug\Sistema.Negocio.pdb
+C:\ProyectoWindowsForms\Sistema\Sistema.Negocio\bin\Debug\Sistema.Datos.dll
+C:\ProyectoWindowsForms\Sistema\Sistema.Negocio\bin\Debug\Sistema.Entidades.dll
+C:\ProyectoWindowsForms\Sistema\Sistema.Negocio\bin\Debug\Sistema.Datos.pdb
+C:\ProyectoWindowsForms\Sistema\Sistema.Negocio\bin\Debug\Sistema.Entidades.pdb
+C:\ProyectoWindowsForms\Sistema\Sistema.Negocio\obj\Debug\Sistema.Negocio.csprojAssemblyReference.cache
+C:\ProyectoWindowsForms\Sistema\Sistema.Negocio\obj\Debug\Sistema.Negocio.csproj.CoreCompileInputs.cache
+C:\ProyectoWindowsForms\Sistema\Sistema.Negocio\obj\Debug\Sistema.Negocio.csproj.CopyComplete
+C:\ProyectoWindowsForms\Sistema\Sistema.Negocio\obj\Debug\Sistema.Negocio.dll
+C:\ProyectoWindowsForms\Sistema\Sistema.Negocio\obj\Debug\Sistema.Negocio.pdb

@@ -1,0 +1,12 @@
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Entidades\bin\Debug\Sistema.Entidades.dll
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Entidades\bin\Debug\Sistema.Entidades.pdb
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Entidades\obj\Debug\Sistema.Entidades.csproj.AssemblyReference.cache
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Entidades\obj\Debug\Sistema.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Entidades\obj\Debug\Sistema.Entidades.dll
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Entidades\obj\Debug\Sistema.Entidades.pdb
+C:\ProyectoWindowsForms\Sistema\Sistema.Entidades\bin\Debug\Sistema.Entidades.dll
+C:\ProyectoWindowsForms\Sistema\Sistema.Entidades\bin\Debug\Sistema.Entidades.pdb
+C:\ProyectoWindowsForms\Sistema\Sistema.Entidades\obj\Debug\Sistema.Entidades.csprojAssemblyReference.cache
+C:\ProyectoWindowsForms\Sistema\Sistema.Entidades\obj\Debug\Sistema.Entidades.csproj.CoreCompileInputs.cache
+C:\ProyectoWindowsForms\Sistema\Sistema.Entidades\obj\Debug\Sistema.Entidades.dll
+C:\ProyectoWindowsForms\Sistema\Sistema.Entidades\obj\Debug\Sistema.Entidades.pdb

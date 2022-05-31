@@ -1,0 +1,381 @@
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.exe.config
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.exe
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.pdb
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Negocio.dll
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Datos.dll
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Entidades.dll
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Negocio.pdb
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Datos.pdb
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Entidades.pdb
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.AssemblyReference.cache
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmPrincipal.resources
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Properties.Resources.resources
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.GenerateResource.cache
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.CopyComplete
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.exe
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.pdb
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmCategoria.resources
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmArticulo.resources
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Presentacion\bin\Debug\BarcodeStandard.dll
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Presentacion\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Presentacion\bin\Debug\System.Buffers.dll
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Presentacion\bin\Debug\System.Drawing.Common.dll
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Presentacion\bin\Debug\System.Memory.dll
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Presentacion\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Presentacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Presentacion\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Presentacion\bin\Debug\System.Text.Json.dll
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Presentacion\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Presentacion\bin\Debug\System.ValueTuple.dll
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Presentacion\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Presentacion\bin\Debug\System.Buffers.xml
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Presentacion\bin\Debug\System.Memory.xml
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Presentacion\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Presentacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Presentacion\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Presentacion\bin\Debug\System.Text.Json.xml
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Presentacion\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Presentacion\bin\Debug\System.ValueTuple.xml
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmRol.resources
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmUsuario.resources
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmLogin.resources
+C:\Users\luise\Desktop\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.exe.config
+C:\Users\luise\Desktop\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.exe
+C:\Users\luise\Desktop\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.pdb
+C:\Users\luise\Desktop\Sistema\Sistema.Presentacion\bin\Debug\BarcodeStandard.dll
+C:\Users\luise\Desktop\Sistema\Sistema.Presentacion\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\luise\Desktop\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Negocio.dll
+C:\Users\luise\Desktop\Sistema\Sistema.Presentacion\bin\Debug\System.Buffers.dll
+C:\Users\luise\Desktop\Sistema\Sistema.Presentacion\bin\Debug\System.Drawing.Common.dll
+C:\Users\luise\Desktop\Sistema\Sistema.Presentacion\bin\Debug\System.Memory.dll
+C:\Users\luise\Desktop\Sistema\Sistema.Presentacion\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\luise\Desktop\Sistema\Sistema.Presentacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\luise\Desktop\Sistema\Sistema.Presentacion\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\luise\Desktop\Sistema\Sistema.Presentacion\bin\Debug\System.Text.Json.dll
+C:\Users\luise\Desktop\Sistema\Sistema.Presentacion\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\luise\Desktop\Sistema\Sistema.Presentacion\bin\Debug\System.ValueTuple.dll
+C:\Users\luise\Desktop\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Datos.dll
+C:\Users\luise\Desktop\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Entidades.dll
+C:\Users\luise\Desktop\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Negocio.pdb
+C:\Users\luise\Desktop\Sistema\Sistema.Presentacion\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\luise\Desktop\Sistema\Sistema.Presentacion\bin\Debug\System.Buffers.xml
+C:\Users\luise\Desktop\Sistema\Sistema.Presentacion\bin\Debug\System.Memory.xml
+C:\Users\luise\Desktop\Sistema\Sistema.Presentacion\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\luise\Desktop\Sistema\Sistema.Presentacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\luise\Desktop\Sistema\Sistema.Presentacion\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\luise\Desktop\Sistema\Sistema.Presentacion\bin\Debug\System.Text.Json.xml
+C:\Users\luise\Desktop\Sistema\Sistema.Presentacion\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\luise\Desktop\Sistema\Sistema.Presentacion\bin\Debug\System.ValueTuple.xml
+C:\Users\luise\Desktop\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Datos.pdb
+C:\Users\luise\Desktop\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Entidades.pdb
+C:\Users\luise\Desktop\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.AssemblyReference.cache
+C:\Users\luise\Desktop\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmArticulo.resources
+C:\Users\luise\Desktop\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmCategoria.resources
+C:\Users\luise\Desktop\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmLogin.resources
+C:\Users\luise\Desktop\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmPrincipal.resources
+C:\Users\luise\Desktop\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmRol.resources
+C:\Users\luise\Desktop\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmUsuario.resources
+C:\Users\luise\Desktop\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Properties.Resources.resources
+C:\Users\luise\Desktop\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.GenerateResource.cache
+C:\Users\luise\Desktop\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\luise\Desktop\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.CopyComplete
+C:\Users\luise\Desktop\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.exe
+C:\Users\luise\Desktop\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.pdb
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmProveedor.resources
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmCliente.resources
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmIngreso.resources
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmVista_ProveedorIngreso.resources
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmVenta.resources
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmVista_ClienteVenta.resources
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Presentacion\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Presentacion\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Presentacion\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Presentacion\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Presentacion\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Presentacion\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Presentacion\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Presentacion\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Presentacion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Presentacion\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Presentacion\bin\Debug\EnvDTE.dll
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Presentacion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Presentacion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Presentacion\bin\Debug\stdole.dll
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Presentacion\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Presentacion\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Presentacion\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Presentacion\bin\Debug\Microsoft.MSXML.dll
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Presentacion\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Presentacion\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Presentacion\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Presentacion\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Presentacion\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Presentacion\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Presentacion\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Presentacion\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Presentacion\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Presentacion\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Presentacion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Presentacion\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Reportes.FrmReporteArticulos.resources
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Presentacion\obj\Debug\RdlCompile.cache
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Presentacion\obj\Debug\RdlCompile.compiled
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Reportes.FrmReporteComprobanteVenta.resources
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmConsulta_VentaFechas.resources
+C:\Implementacion\Sistema\Sistema.Presentacion\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Implementacion\Sistema\Sistema.Presentacion\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Implementacion\Sistema\Sistema.Presentacion\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Implementacion\Sistema\Sistema.Presentacion\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Implementacion\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.exe.config
+C:\Implementacion\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.exe.manifest
+C:\Implementacion\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.application
+C:\Implementacion\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.exe
+C:\Implementacion\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.pdb
+C:\Implementacion\Sistema\Sistema.Presentacion\bin\Debug\BarcodeStandard.dll
+C:\Implementacion\Sistema\Sistema.Presentacion\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Implementacion\Sistema\Sistema.Presentacion\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Implementacion\Sistema\Sistema.Presentacion\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Implementacion\Sistema\Sistema.Presentacion\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Implementacion\Sistema\Sistema.Presentacion\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Implementacion\Sistema\Sistema.Presentacion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Implementacion\Sistema\Sistema.Presentacion\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Implementacion\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Negocio.dll
+C:\Implementacion\Sistema\Sistema.Presentacion\bin\Debug\System.Buffers.dll
+C:\Implementacion\Sistema\Sistema.Presentacion\bin\Debug\System.Drawing.Common.dll
+C:\Implementacion\Sistema\Sistema.Presentacion\bin\Debug\System.Memory.dll
+C:\Implementacion\Sistema\Sistema.Presentacion\bin\Debug\System.Numerics.Vectors.dll
+C:\Implementacion\Sistema\Sistema.Presentacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Implementacion\Sistema\Sistema.Presentacion\bin\Debug\System.Text.Encodings.Web.dll
+C:\Implementacion\Sistema\Sistema.Presentacion\bin\Debug\System.Text.Json.dll
+C:\Implementacion\Sistema\Sistema.Presentacion\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Implementacion\Sistema\Sistema.Presentacion\bin\Debug\System.ValueTuple.dll
+C:\Implementacion\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Datos.dll
+C:\Implementacion\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Entidades.dll
+C:\Implementacion\Sistema\Sistema.Presentacion\bin\Debug\EnvDTE.dll
+C:\Implementacion\Sistema\Sistema.Presentacion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Implementacion\Sistema\Sistema.Presentacion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Implementacion\Sistema\Sistema.Presentacion\bin\Debug\stdole.dll
+C:\Implementacion\Sistema\Sistema.Presentacion\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Implementacion\Sistema\Sistema.Presentacion\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Implementacion\Sistema\Sistema.Presentacion\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Implementacion\Sistema\Sistema.Presentacion\bin\Debug\Microsoft.MSXML.dll
+C:\Implementacion\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Negocio.pdb
+C:\Implementacion\Sistema\Sistema.Presentacion\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Implementacion\Sistema\Sistema.Presentacion\bin\Debug\System.Buffers.xml
+C:\Implementacion\Sistema\Sistema.Presentacion\bin\Debug\System.Memory.xml
+C:\Implementacion\Sistema\Sistema.Presentacion\bin\Debug\System.Numerics.Vectors.xml
+C:\Implementacion\Sistema\Sistema.Presentacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Implementacion\Sistema\Sistema.Presentacion\bin\Debug\System.Text.Encodings.Web.xml
+C:\Implementacion\Sistema\Sistema.Presentacion\bin\Debug\System.Text.Json.xml
+C:\Implementacion\Sistema\Sistema.Presentacion\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Implementacion\Sistema\Sistema.Presentacion\bin\Debug\System.ValueTuple.xml
+C:\Implementacion\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Datos.pdb
+C:\Implementacion\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Entidades.pdb
+C:\Implementacion\Sistema\Sistema.Presentacion\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Implementacion\Sistema\Sistema.Presentacion\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Implementacion\Sistema\Sistema.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Implementacion\Sistema\Sistema.Presentacion\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Implementacion\Sistema\Sistema.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Implementacion\Sistema\Sistema.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Implementacion\Sistema\Sistema.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Implementacion\Sistema\Sistema.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Implementacion\Sistema\Sistema.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Implementacion\Sistema\Sistema.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Implementacion\Sistema\Sistema.Presentacion\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Implementacion\Sistema\Sistema.Presentacion\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Implementacion\Sistema\Sistema.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Implementacion\Sistema\Sistema.Presentacion\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Implementacion\Sistema\Sistema.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Implementacion\Sistema\Sistema.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Implementacion\Sistema\Sistema.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Implementacion\Sistema\Sistema.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Implementacion\Sistema\Sistema.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Implementacion\Sistema\Sistema.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Implementacion\Sistema\Sistema.Presentacion\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Implementacion\Sistema\Sistema.Presentacion\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Implementacion\Sistema\Sistema.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Implementacion\Sistema\Sistema.Presentacion\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Implementacion\Sistema\Sistema.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Implementacion\Sistema\Sistema.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Implementacion\Sistema\Sistema.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Implementacion\Sistema\Sistema.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Implementacion\Sistema\Sistema.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Implementacion\Sistema\Sistema.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Implementacion\Sistema\Sistema.Presentacion\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Implementacion\Sistema\Sistema.Presentacion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Implementacion\Sistema\Sistema.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Implementacion\Sistema\Sistema.Presentacion\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Implementacion\Sistema\Sistema.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Implementacion\Sistema\Sistema.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Implementacion\Sistema\Sistema.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Implementacion\Sistema\Sistema.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Implementacion\Sistema\Sistema.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Implementacion\Sistema\Sistema.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Implementacion\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.AssemblyReference.cache
+C:\Implementacion\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmArticulo.resources
+C:\Implementacion\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmCategoria.resources
+C:\Implementacion\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmConsulta_VentaFechas.resources
+C:\Implementacion\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmIngreso.resources
+C:\Implementacion\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmLogin.resources
+C:\Implementacion\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmPrincipal.resources
+C:\Implementacion\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmCliente.resources
+C:\Implementacion\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmProveedor.resources
+C:\Implementacion\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmRol.resources
+C:\Implementacion\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmUsuario.resources
+C:\Implementacion\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmVenta.resources
+C:\Implementacion\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmVista_ClienteVenta.resources
+C:\Implementacion\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmVista_ProveedorIngreso.resources
+C:\Implementacion\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Properties.Resources.resources
+C:\Implementacion\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Reportes.FrmReporteArticulos.resources
+C:\Implementacion\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Reportes.FrmReporteComprobanteVenta.resources
+C:\Implementacion\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.GenerateResource.cache
+C:\Implementacion\Sistema\Sistema.Presentacion\obj\Debug\RdlCompile.cache
+C:\Implementacion\Sistema\Sistema.Presentacion\obj\Debug\RdlCompile.compiled
+C:\Implementacion\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.CoreCompileInputs.cache
+C:\Implementacion\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.exe.manifest
+C:\Implementacion\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.application
+C:\Implementacion\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.CopyComplete
+C:\Implementacion\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.exe
+C:\Implementacion\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.pdb
+C:\ProyectoWindowsForms\Sistema\Sistema.Presentacion\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\ProyectoWindowsForms\Sistema\Sistema.Presentacion\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\ProyectoWindowsForms\Sistema\Sistema.Presentacion\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\ProyectoWindowsForms\Sistema\Sistema.Presentacion\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\ProyectoWindowsForms\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.exe.config
+C:\ProyectoWindowsForms\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.exe.manifest
+C:\ProyectoWindowsForms\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.application
+C:\ProyectoWindowsForms\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.exe
+C:\ProyectoWindowsForms\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.pdb
+C:\ProyectoWindowsForms\Sistema\Sistema.Presentacion\bin\Debug\BarcodeStandard.dll
+C:\ProyectoWindowsForms\Sistema\Sistema.Presentacion\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\ProyectoWindowsForms\Sistema\Sistema.Presentacion\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\ProyectoWindowsForms\Sistema\Sistema.Presentacion\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\ProyectoWindowsForms\Sistema\Sistema.Presentacion\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\ProyectoWindowsForms\Sistema\Sistema.Presentacion\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\ProyectoWindowsForms\Sistema\Sistema.Presentacion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\ProyectoWindowsForms\Sistema\Sistema.Presentacion\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\ProyectoWindowsForms\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Negocio.dll
+C:\ProyectoWindowsForms\Sistema\Sistema.Presentacion\bin\Debug\System.Buffers.dll
+C:\ProyectoWindowsForms\Sistema\Sistema.Presentacion\bin\Debug\System.Drawing.Common.dll
+C:\ProyectoWindowsForms\Sistema\Sistema.Presentacion\bin\Debug\System.Memory.dll
+C:\ProyectoWindowsForms\Sistema\Sistema.Presentacion\bin\Debug\System.Numerics.Vectors.dll
+C:\ProyectoWindowsForms\Sistema\Sistema.Presentacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\ProyectoWindowsForms\Sistema\Sistema.Presentacion\bin\Debug\System.Text.Encodings.Web.dll
+C:\ProyectoWindowsForms\Sistema\Sistema.Presentacion\bin\Debug\System.Text.Json.dll
+C:\ProyectoWindowsForms\Sistema\Sistema.Presentacion\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\ProyectoWindowsForms\Sistema\Sistema.Presentacion\bin\Debug\System.ValueTuple.dll
+C:\ProyectoWindowsForms\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Datos.dll
+C:\ProyectoWindowsForms\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Entidades.dll
+C:\ProyectoWindowsForms\Sistema\Sistema.Presentacion\bin\Debug\EnvDTE.dll
+C:\ProyectoWindowsForms\Sistema\Sistema.Presentacion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\ProyectoWindowsForms\Sistema\Sistema.Presentacion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\ProyectoWindowsForms\Sistema\Sistema.Presentacion\bin\Debug\stdole.dll
+C:\ProyectoWindowsForms\Sistema\Sistema.Presentacion\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\ProyectoWindowsForms\Sistema\Sistema.Presentacion\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\ProyectoWindowsForms\Sistema\Sistema.Presentacion\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\ProyectoWindowsForms\Sistema\Sistema.Presentacion\bin\Debug\Microsoft.MSXML.dll
+C:\ProyectoWindowsForms\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Negocio.pdb
+C:\ProyectoWindowsForms\Sistema\Sistema.Presentacion\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\ProyectoWindowsForms\Sistema\Sistema.Presentacion\bin\Debug\System.Buffers.xml
+C:\ProyectoWindowsForms\Sistema\Sistema.Presentacion\bin\Debug\System.Memory.xml
+C:\ProyectoWindowsForms\Sistema\Sistema.Presentacion\bin\Debug\System.Numerics.Vectors.xml
+C:\ProyectoWindowsForms\Sistema\Sistema.Presentacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\ProyectoWindowsForms\Sistema\Sistema.Presentacion\bin\Debug\System.Text.Encodings.Web.xml
+C:\ProyectoWindowsForms\Sistema\Sistema.Presentacion\bin\Debug\System.Text.Json.xml
+C:\ProyectoWindowsForms\Sistema\Sistema.Presentacion\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\ProyectoWindowsForms\Sistema\Sistema.Presentacion\bin\Debug\System.ValueTuple.xml
+C:\ProyectoWindowsForms\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Datos.pdb
+C:\ProyectoWindowsForms\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Entidades.pdb
+C:\ProyectoWindowsForms\Sistema\Sistema.Presentacion\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\ProyectoWindowsForms\Sistema\Sistema.Presentacion\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\ProyectoWindowsForms\Sistema\Sistema.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\ProyectoWindowsForms\Sistema\Sistema.Presentacion\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\ProyectoWindowsForms\Sistema\Sistema.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\ProyectoWindowsForms\Sistema\Sistema.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\ProyectoWindowsForms\Sistema\Sistema.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\ProyectoWindowsForms\Sistema\Sistema.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\ProyectoWindowsForms\Sistema\Sistema.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\ProyectoWindowsForms\Sistema\Sistema.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\ProyectoWindowsForms\Sistema\Sistema.Presentacion\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\ProyectoWindowsForms\Sistema\Sistema.Presentacion\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\ProyectoWindowsForms\Sistema\Sistema.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\ProyectoWindowsForms\Sistema\Sistema.Presentacion\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\ProyectoWindowsForms\Sistema\Sistema.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\ProyectoWindowsForms\Sistema\Sistema.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\ProyectoWindowsForms\Sistema\Sistema.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\ProyectoWindowsForms\Sistema\Sistema.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\ProyectoWindowsForms\Sistema\Sistema.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\ProyectoWindowsForms\Sistema\Sistema.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\ProyectoWindowsForms\Sistema\Sistema.Presentacion\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\ProyectoWindowsForms\Sistema\Sistema.Presentacion\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\ProyectoWindowsForms\Sistema\Sistema.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\ProyectoWindowsForms\Sistema\Sistema.Presentacion\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\ProyectoWindowsForms\Sistema\Sistema.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\ProyectoWindowsForms\Sistema\Sistema.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\ProyectoWindowsForms\Sistema\Sistema.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\ProyectoWindowsForms\Sistema\Sistema.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\ProyectoWindowsForms\Sistema\Sistema.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\ProyectoWindowsForms\Sistema\Sistema.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\ProyectoWindowsForms\Sistema\Sistema.Presentacion\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\ProyectoWindowsForms\Sistema\Sistema.Presentacion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\ProyectoWindowsForms\Sistema\Sistema.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\ProyectoWindowsForms\Sistema\Sistema.Presentacion\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\ProyectoWindowsForms\Sistema\Sistema.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\ProyectoWindowsForms\Sistema\Sistema.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\ProyectoWindowsForms\Sistema\Sistema.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\ProyectoWindowsForms\Sistema\Sistema.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\ProyectoWindowsForms\Sistema\Sistema.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\ProyectoWindowsForms\Sistema\Sistema.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\ProyectoWindowsForms\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csprojAssemblyReference.cache
+C:\ProyectoWindowsForms\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmArticulo.resources
+C:\ProyectoWindowsForms\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmCategoria.resources
+C:\ProyectoWindowsForms\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmConsulta_VentaFechas.resources
+C:\ProyectoWindowsForms\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmIngreso.resources
+C:\ProyectoWindowsForms\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmLogin.resources
+C:\ProyectoWindowsForms\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmPrincipal.resources
+C:\ProyectoWindowsForms\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmCliente.resources
+C:\ProyectoWindowsForms\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmProveedor.resources
+C:\ProyectoWindowsForms\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmRol.resources
+C:\ProyectoWindowsForms\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmUsuario.resources
+C:\ProyectoWindowsForms\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmVenta.resources
+C:\ProyectoWindowsForms\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmVista_ClienteVenta.resources
+C:\ProyectoWindowsForms\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmVista_ProveedorIngreso.resources
+C:\ProyectoWindowsForms\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Properties.Resources.resources
+C:\ProyectoWindowsForms\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Reportes.FrmReporteArticulos.resources
+C:\ProyectoWindowsForms\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Reportes.FrmReporteComprobanteVenta.resources
+C:\ProyectoWindowsForms\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.GenerateResource.cache
+C:\ProyectoWindowsForms\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.CoreCompileInputs.cache
+C:\ProyectoWindowsForms\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.exe.manifest
+C:\ProyectoWindowsForms\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.application
+C:\ProyectoWindowsForms\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.CopyComplete
+C:\ProyectoWindowsForms\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.exe
+C:\ProyectoWindowsForms\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.pdb

@@ -1,0 +1,27 @@
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Datos\bin\Debug\Sistema.Datos.dll
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Datos\bin\Debug\Sistema.Datos.pdb
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Datos\bin\Debug\Sistema.Entidades.dll
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Datos\bin\Debug\Sistema.Entidades.pdb
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.csproj.AssemblyReference.cache
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.csproj.CoreCompileInputs.cache
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.csproj.CopyComplete
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.dll
+C:\Users\luise\Desktop\04-C#-sharp\02 Proyectos Windows Forms\Proyecto de 4 Capas\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.pdb
+C:\Implementacion\Sistema\Sistema.Datos\bin\Debug\Sistema.Datos.dll
+C:\Implementacion\Sistema\Sistema.Datos\bin\Debug\Sistema.Datos.pdb
+C:\Implementacion\Sistema\Sistema.Datos\bin\Debug\Sistema.Entidades.dll
+C:\Implementacion\Sistema\Sistema.Datos\bin\Debug\Sistema.Entidades.pdb
+C:\Implementacion\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.csproj.AssemblyReference.cache
+C:\Implementacion\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.csproj.CoreCompileInputs.cache
+C:\Implementacion\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.csproj.CopyComplete
+C:\Implementacion\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.dll
+C:\Implementacion\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.pdb
+C:\ProyectoWindowsForms\Sistema\Sistema.Datos\bin\Debug\Sistema.Datos.dll
+C:\ProyectoWindowsForms\Sistema\Sistema.Datos\bin\Debug\Sistema.Datos.pdb
+C:\ProyectoWindowsForms\Sistema\Sistema.Datos\bin\Debug\Sistema.Entidades.dll
+C:\ProyectoWindowsForms\Sistema\Sistema.Datos\bin\Debug\Sistema.Entidades.pdb
+C:\ProyectoWindowsForms\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.csprojAssemblyReference.cache
+C:\ProyectoWindowsForms\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.csproj.CoreCompileInputs.cache
+C:\ProyectoWindowsForms\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.csproj.CopyComplete
+C:\ProyectoWindowsForms\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.dll
+C:\ProyectoWindowsForms\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.pdb
